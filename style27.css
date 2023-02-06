@@ -1,0 +1,14 @@
+/* *@format */
+.box{
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    /* overflow: visible; */
+    
+    overflow: hidden; 
+    /* overflow:auto; */
+    /* overflow: scroll; */
+    /* overflow-x: scroll;
+    overflow-y: scroll; */
+
+}

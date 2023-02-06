@@ -1,0 +1,21 @@
+h1{
+    background-color: coral;
+    display: inline;
+
+}
+span{
+     display: block; 
+    background-color: cyan;
+}
+
+div{
+    background-color: darkmagenta;
+    border: 3px solid palevioletred;
+    padding: 10px;
+    color: wheat;
+    margin: 5px;
+    height: 250px;
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+}

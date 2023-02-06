@@ -1,0 +1,19 @@
+/* * @format */
+
+
+#lushi{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+#lushi1{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+p{
+    width: 60%;
+    border: 2px solid deeppink;
+    text-align: justify;
+    padding: 10px;
+}

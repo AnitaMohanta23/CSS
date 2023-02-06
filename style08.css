@@ -1,0 +1,16 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: darkviolet;
+    font-size: 25px;
+    color: wheat;
+    padding: 30px;
+    border: 20px dotted deeppink;
+    background-image: url(/images/siv.jfif);
+    /* background-size: cover; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-origin: content-box; */
+    /* background-origin: padding-box; */
+    background-origin: border-box;
+}

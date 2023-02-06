@@ -1,0 +1,15 @@
+.c1{
+    background-color:wheat;
+    height: 450px;
+    max-width: 100%;
+    background-image: url(/images/universe.jfif);
+    background-repeat: no-repeat;
+    /* background-position:top right; */
+    /* background-position: top center; */
+    /* background-position: center; */
+    /* background-position: 10% 50%; */
+    /* background-position: 150px 250px; */
+    /* background-position: bottom 20px right 120px; */
+    background-position: top 20px right 120px;
+
+}

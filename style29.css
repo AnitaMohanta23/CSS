@@ -1,0 +1,6 @@
+input:focus{
+    background-color: cyan;
+}
+textarea:focus{
+    background-color: deeppink;
+}

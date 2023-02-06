@@ -1,0 +1,15 @@
+p{
+    background-color: cyan;
+}
+div p{
+    background-color: darkorchid;
+}
+div > p {
+    background-color: deeppink;
+}
+.c1{
+    background-color: fuchsia !important;
+}
+#id1{
+    background-color: hotpink;
+}

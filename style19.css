@@ -1,0 +1,18 @@
+body{
+    /* background: url("/images/doreaman.jfif"),rgb(235, 135, 210); */
+
+    /* background: url("/images/doreaman.jfif"),linear-gradient(45deg,deeppink,lightblue); */
+
+    background: url("/images/universe.jfif"),url("/images/siv.jfif");
+    background-size: cover;
+    /* background-blend-mode: multiply; */
+    /* background-blend-mode: overlay; */
+    /* background-blend-mode: color;  */
+    /* background-blend-mode: hard-light;  */
+     /* background-blend-mode: soft-light; */
+     /* background-blend-mode: hue;  */
+      /* background-blend-mode: saturation;   */
+      /* background-blend-mode:darken; */
+       background-blend-mode: luminosity;     
+
+}

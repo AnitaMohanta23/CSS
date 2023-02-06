@@ -1,0 +1,8 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(45deg,rgb(255, 192, 247),rgb(0, 225, 255));
+    /* border-radius: 50%; */
+    box-shadow: 5px 5px 10px rgb(144, 238, 152);
+
+}

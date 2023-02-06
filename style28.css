@@ -1,0 +1,17 @@
+/* *@format */
+a{
+    display: block;
+    padding: 10px;
+}
+a:visited{
+    color: chartreuse;
+}
+a:link{
+    color: cyan;
+}
+a:hover{
+    color: deeppink;
+}
+a:active{
+    color: rgb(128, 128, 128);
+}

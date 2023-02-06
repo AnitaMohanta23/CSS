@@ -1,0 +1,17 @@
+/** @format */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.leftbox{
+    background-color: cadetblue;
+    color: honeydew;
+    width: 40%;
+     float: left; 
+}
+.rightbox{
+    background-color: deeppink;
+    color:honeydew;
+    width: 200%;
+     float: right; 
+}

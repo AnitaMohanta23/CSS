@@ -1,0 +1,18 @@
+/* descendant selector */
+.c1 p{
+    background-color:pink;
+}
+
+/* child selector */
+div > p{
+    background-color: plum;
+}
+/*general sibiling selector */
+p ~ h2{
+    background-color: skyblue;
+}
+
+/* adjacent sibiling selector */
+p +h1{
+    background-color: yellowgreen;
+}

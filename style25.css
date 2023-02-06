@@ -1,0 +1,30 @@
+/* *@format */
+div{
+    height: 100px;
+    width: 100px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.box1{
+    background-color: hotpink;
+    /* visibility: visible; default one */
+}
+
+.box2{
+    background-color:skyblue;
+    /* visibility: hidden; */
+    /* display: none; */
+}
+
+.box3{
+    background-color: greenyellow;
+}
+
+.box4{
+    background-color: teal;
+}
+
+.box5{
+    background-color: tomato;
+}

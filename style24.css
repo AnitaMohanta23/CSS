@@ -1,0 +1,19 @@
+/* *@format */
+div{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.id1{
+    background-color: cadetblue;
+    /* float: left; */
+}
+.id2{
+    background-color: cyan;
+    /* float: right; */
+}
+.id3{
+    background-color: darkseagreen;
+    /* float: right; */
+    /* clear: right; */
+}

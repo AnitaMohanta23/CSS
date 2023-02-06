@@ -1,0 +1,17 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: darkviolet;
+    font-size: 25px;
+    color: wheat;
+    padding: 30px;
+    border: 20px dotted deeppink;
+    background-color: cadetblue;
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    /* background-clip: border-box; */
+    /* background-clip: padding-box; */
+    background-clip: content-box;
+}

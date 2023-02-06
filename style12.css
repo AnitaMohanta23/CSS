@@ -1,0 +1,28 @@
+.c1{
+    height: 450px;
+    width: 100%;
+    /* background-image: linear-gradient( deeppink, cyan); */
+    /* background-image: linear-gradient(to right, deeppink, cyan); */
+    /* background-image: linear-gradient(to bottom, deeppink, cyan); */
+    /* background-image: linear-gradient(90deg, deeppink, cyan); */
+    /* background-image: linear-gradient(
+        to right,
+        
+        deeppink,
+         cyan,
+          pink,
+          teal,
+          lightgreen,
+          violet,
+          red
+          ); */
+          /* background-image: linear-gradient(to right,deeppink 10%,cyan 40%); */
+          /* background-image: linear-gradient(
+              to right,
+              deeppink 10%,
+              cyan 40%,
+              teal 40%
+              ); */
+              /* background-image: linear-gradient(rgba(255,0,0,0.5),pink); */
+              background-image: repeating-linear-gradient(deeppink 10%, cyan 20%);
+}

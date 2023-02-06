@@ -1,0 +1,42 @@
+.c1{
+    height: 300px;
+    width: 300px;
+    /* background-image: conic-gradient(cyan,pink); */
+    /* background-image: conic-gradient(deeppink,blue,cyan); */
+    /* background-image: conic-gradient(deeppink,blue,cyan,orange); */
+    /* background-image: conic-gradient(deeppink,blue,cyan,lightgreen); */
+    /* background-image: conic-gradient(deeppink 180deg,blue,cyan); */
+    /* background-image: conic-gradient(deeppink 270deg,blue,cyan); */
+    /* background-image: conic-gradient(at 25% 25% ,deeppink 180deg,blue,cyan); */
+    /* background-image: conic-gradient(at 80% 80% ,deeppink 180deg,blue,cyan); */
+    /* background-image: repeating-conic-gradient(
+        pink 0deg,
+        cyan 20deg,
+        lightgreen 20deg,
+        lightgreen 60deg
+        ); */
+
+        /* background-image: conic-gradient(rgba(255,0,0,0.3),
+        rgba(0,0,255,0.5)); */
+
+        /* background-image: repeating-conic-gradient(
+            cyan 0deg,
+            cyan 90deg,
+            deeppink 90deg,
+            deeppink 180deg
+            ); */
+
+            background-image: repeating-conic-gradient(
+            cyan 0deg,
+            cyan 90deg,
+            rgb(255, 20, 147) 90deg,
+            rgb(255, 20, 243) 180deg
+            ); 
+
+            background-size: 100px 100px;
+          
+
+
+     /* border-radius: 50%;  */
+     border: 2px solid black;
+}

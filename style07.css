@@ -1,0 +1,35 @@
+/* .c1{
+    background-color: rgb(226, 43, 202); 
+     background-image: linear-gradient(45deg,pink,red); 
+
+} */
+
+.c2 {
+    height: 400px;
+    width: 500px;
+    
+    background-image:linear-gradient(
+        45deg,
+        rgba(0, 184, 240, 0.2),
+        rgba(255, 0, 221, 0.3)
+        ), 
+        url("/images/god.jfif");
+    /* background-size: cover; */
+}
+
+.c3{
+    height: 800px;
+    width: 1300px;
+    background-image: url("/images/doreaman.jfif");
+    /* background-repeat: no-repeat; */
+    /* background-repeat: space;
+    background-repeat: round;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+
+}
+/* round round---->round */
+/* space space---->space    */
+/* repeat no-repeat--->repaet x */
+/* no-repeat repeat-x---->repaet x */
+/* repeat repeat ---->repeat */
