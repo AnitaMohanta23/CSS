@@ -1,0 +1,68 @@
+.container{
+    width:850px;
+    border:3px solid blue;
+    margin: auto;
+    padding:10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    display: inline-block;
+    margin:10px;
+
+}
+
+@media screen and (max-width:1060px)
+{
+.container{
+    width:850px;
+    border:3px solid blue;
+    margin: auto;
+    padding:10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    display: inline-block;
+    margin:10px;
+
+}
+}
+
+@media screen and (min-width:320px) and (max-width:6900px)
+{
+.container{
+    width:310px;
+    border:3px solid blue;
+    margin: auto;
+    padding:10px;
+}
+
+h1{
+    text-align: center;
+    color: darkmagenta;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    display: inline-block;
+    margin:10px;
+
+}
+
+
+}
