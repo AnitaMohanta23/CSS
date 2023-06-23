@@ -1,0 +1,22 @@
+h1{
+    background: rgb(80, 235, 255);
+    /* border-color:blue;
+    border-width: 5px;
+    border-style: solid; */
+
+    /* border:5px solid blue; */
+    border:2px dashed blue;
+
+
+
+}
+
+body{
+    background: rgb(255, 47, 255);
+}
+
+body{
+    background: url(https://www.google.co.in/search?q=underwater+background+url&tbm=isch&ved=2ahUKEwj-yMKw9uz-AhVjSnwKHc9LDNkQ2-cCegQIABAA&oq=underwater+background+url&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHjoGCAAQBRAeUMEFWM4VYOodaABwAHgAgAHrAogBrAySAQcwLjYuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=rLFcZP7CB-OU8QPPl7HIDQ&bih=591&biw=638);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
